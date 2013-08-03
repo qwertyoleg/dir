@@ -1,0 +1,36 @@
+C:\Users\User5\Desktop\Oleg\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.exe.config
+C:\Users\User5\Desktop\Oleg\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.exe
+C:\Users\User5\Desktop\Oleg\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.pdb
+C:\Users\User5\Desktop\Oleg\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.csprojResolveAssemblyReference.cache
+C:\Users\User5\Desktop\Oleg\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.exe
+C:\Users\User5\Desktop\Oleg\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.pdb
+C:\Users\Olga\Documents\Visual Studio 2012\Projects\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.exe.config
+C:\Users\Olga\Documents\Visual Studio 2012\Projects\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.exe
+C:\Users\Olga\Documents\Visual Studio 2012\Projects\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.exe
+C:\Users\Olga\Documents\Visual Studio 2012\Projects\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.pdb
+C:\Users\Olga\Documents\Visual Studio 2012\Projects\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.pdb
+C:\Users\Olga\Documents\Visual Studio 2012\Projects\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Dropbox\MyCsharpProjects\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.exe.config
+C:\Users\Olga\Dropbox\MyCsharpProjects\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.exe
+C:\Users\Olga\Dropbox\MyCsharpProjects\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.pdb
+C:\Users\Александр\Desktop\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.exe.config
+C:\Users\Александр\Desktop\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.exe
+C:\Users\Александр\Desktop\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.pdb
+C:\Users\Александр\Desktop\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.exe
+C:\Users\Александр\Desktop\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.pdb
+C:\Users\Александр\Desktop\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Desktop\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.exe.config
+C:\Users\Oleg\Desktop\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.exe
+C:\Users\Oleg\Desktop\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.pdb
+C:\Users\Oleg\Desktop\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.exe
+C:\Users\Oleg\Desktop\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.pdb
+C:\Users\Oleg\Desktop\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.exe.config
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.exe
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.pdb
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.exe
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\DirectoryManager\DirectoryManager\bin\Debug\DirectoryManager.pdb
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\DirectoryManager\DirectoryManager\obj\Debug\DirectoryManager.csprojResolveAssemblyReference.cache
